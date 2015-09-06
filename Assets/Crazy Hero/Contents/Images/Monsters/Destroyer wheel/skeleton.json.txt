@@ -1,0 +1,268 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "c1", "parent": "root", "x": -0.02, "y": -0.08 },
+	{ "name": "c2", "parent": "root", "x": 0.01, "y": -0.04 }
+],
+"slots": [
+	{ "name": "hdm 12  body 2", "bone": "c1", "attachment": "hdm 12  body 2" },
+	{ "name": "hdm 12  body 3", "bone": "c2", "attachment": "hdm 12  body 3" },
+	{ "name": "hdm 12  body 1", "bone": "root", "attachment": "hdm 12  body 1" },
+	{ "name": "hdm 12  head 2", "bone": "root", "attachment": "hdm 12  head 2" },
+	{ "name": "hdm 12  eye 2", "bone": "root", "attachment": "hdm 12  eye 3" }
+],
+"skins": {
+	"default": {
+		"hdm 12  body 1": {
+			"hdm 12  body 1": { "x": -0.02, "y": 0.07, "width": 146, "height": 146 }
+		},
+		"hdm 12  body 2": {
+			"hdm 12  body 2": { "x": 0.32, "y": -0.68, "width": 146, "height": 146 }
+		},
+		"hdm 12  body 3": {
+			"hdm 12  body 3": { "x": -0.03, "y": 0.11, "width": 181, "height": 181 }
+		},
+		"hdm 12  eye 2": {
+			"hdm 12  eye 2": { "x": -0.03, "y": 11, "width": 56, "height": 28 },
+			"hdm 12  eye 3": { "x": -0.18, "y": 11, "width": 56, "height": 28 }
+		},
+		"hdm 12  head 2": {
+			"hdm 12  head 2": { "x": 0.35, "y": -23.96, "width": 46, "height": 23 },
+			"hdm 12  head 3": { "x": -0.39, "y": -23.96, "width": 42, "height": 17 }
+		}
+	}
+},
+"animations": {
+	"Attack": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 50, "y": 0 },
+					{
+						"time": 0.6666,
+						"x": 30,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.905, 0.47 ]
+					},
+					{ "time": 1.5, "x": -61.99, "y": 0 },
+					{ "time": 2.3333, "x": 0, "y": 0 }
+				]
+			},
+			"c1": {
+				"rotate": [
+					{ "time": 0, "angle": 90 },
+					{ "time": 0.4333, "angle": 0 },
+					{ "time": 0.6666, "angle": 180 },
+					{ "time": 0.7666, "angle": 270 },
+					{ "time": 0.8666, "angle": 0 },
+					{ "time": 0.9666, "angle": 90 },
+					{ "time": 1.0666, "angle": 180 },
+					{ "time": 1.1666, "angle": 270 },
+					{ "time": 1.2666, "angle": 0 },
+					{ "time": 1.3666, "angle": 90 },
+					{ "time": 1.4666, "angle": 180 },
+					{ "time": 1.5666, "angle": 270 },
+					{ "time": 1.6666, "angle": 0 },
+					{ "time": 1.9, "angle": 180 },
+					{ "time": 2.3333, "angle": 90 }
+				]
+			},
+			"c2": {
+				"rotate": [
+					{ "time": 0, "angle": 60 },
+					{ "time": 0.4333, "angle": 0 },
+					{ "time": 0.6666, "angle": 29.43 },
+					{ "time": 0.8333, "angle": 44.09 },
+					{ "time": 1, "angle": 60 },
+					{ "time": 1.1666, "angle": 90 },
+					{ "time": 1.3333, "angle": 180 },
+					{ "time": 1.5, "angle": 270 },
+					{ "time": 1.6666, "angle": 0 },
+					{ "time": 1.9, "angle": 30 },
+					{ "time": 2.3333, "angle": 330 }
+				]
+			}
+		},
+		"slots": {
+			"hdm 12  eye 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "hdm 12  eye 3" },
+					{ "time": 0.4, "name": "hdm 12  eye 2" },
+					{ "time": 0.5, "name": null },
+					{ "time": 1.4, "name": "hdm 12  eye 3" },
+					{ "time": 1.4666, "name": "hdm 12  eye 2" },
+					{ "time": 1.5666, "name": null }
+				]
+			},
+			"hdm 12  head 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "hdm 12  head 3" },
+					{ "time": 0.4333, "name": "hdm 12  head 2" },
+					{ "time": 1.4666, "name": "hdm 12  head 3" },
+					{ "time": 1.5666, "name": null }
+				]
+			}
+		}
+	},
+	"Dead": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1, "y": 0.009 }
+				]
+			},
+			"c1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 90 },
+					{ "time": 0.6666, "angle": 180 },
+					{ "time": 1, "angle": 270 }
+				]
+			},
+			"c2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				]
+			}
+		},
+		"slots": {
+			"hdm 12  eye 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "hdm 12  eye 3" },
+					{ "time": 0.4, "name": "hdm 12  eye 2" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"hdm 12  body 3": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff00" }
+				]
+			},
+			"hdm 12  head 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "hdm 12  head 3" },
+					{ "time": 0.9, "name": "hdm 12  head 2" }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"c1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 90 },
+					{ "time": 1.3333, "angle": 180 }
+				]
+			},
+			"c2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 14.43 },
+					{ "time": 1.3333, "angle": 29.43 }
+				]
+			}
+		},
+		"slots": {
+			"hdm 12  eye 2": {
+				"attachment": [
+					{ "time": 0, "name": "hdm 12  eye 3" },
+					{ "time": 0.0666, "name": "hdm 12  eye 2" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3333, "name": "hdm 12  eye 3" },
+					{ "time": 0.4, "name": "hdm 12  eye 2" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"hdm 12  head 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "hdm 12  head 3" },
+					{ "time": 0.9, "name": "hdm 12  head 2" },
+					{ "time": 1.1666, "name": "hdm 12  head 3" },
+					{ "time": 1.2333, "name": null }
+				]
+			}
+		}
+	},
+	"Walk": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"c1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 90 },
+					{ "time": 0.6666, "angle": 180 },
+					{ "time": 1, "angle": 270 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"c2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 14.43 },
+					{ "time": 0.6666, "angle": 29.43 },
+					{ "time": 1, "angle": 44.09 },
+					{ "time": 1.3333, "angle": 60 }
+				]
+			}
+		},
+		"slots": {
+			"hdm 12  eye 2": {
+				"attachment": [
+					{ "time": 0, "name": "hdm 12  eye 3" },
+					{ "time": 0.0666, "name": "hdm 12  eye 2" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3333, "name": "hdm 12  eye 3" },
+					{ "time": 0.4, "name": "hdm 12  eye 2" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"hdm 12  head 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "hdm 12  head 3" },
+					{ "time": 0.9, "name": "hdm 12  head 2" },
+					{ "time": 1.1666, "name": "hdm 12  head 3" },
+					{ "time": 1.2333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,355 @@
+
+skeleton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hdm 10 a/hdm 10 arm l 1
+  rotate: false
+  xy: 849, 183
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm l 2
+  rotate: false
+  xy: 224, 63
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm l 3 back
+  rotate: false
+  xy: 322, 86
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm l 3 top
+  rotate: false
+  xy: 577, 85
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm r 1
+  rotate: false
+  xy: 523, 186
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm r 2
+  rotate: false
+  xy: 789, 182
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 arm r 3
+  rotate: false
+  xy: 904, 126
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 body
+  rotate: false
+  xy: 1, 19
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 head
+  rotate: false
+  xy: 413, 127
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 head 2
+  rotate: false
+  xy: 605, 117
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 head 3
+  rotate: false
+  xy: 669, 117
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 hip
+  rotate: false
+  xy: 132, 132
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 hip top
+  rotate: false
+  xy: 618, 175
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg l 1
+  rotate: false
+  xy: 797, 118
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg l 2
+  rotate: false
+  xy: 127, 3
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg l 3
+  rotate: false
+  xy: 693, 75
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg l 4
+  rotate: false
+  xy: 280, 34
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg r 1
+  rotate: false
+  xy: 296, 145
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg r 2
+  rotate: false
+  xy: 358, 96
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg r 3
+  rotate: false
+  xy: 733, 70
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 leg r 4
+  rotate: false
+  xy: 178, 5
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 tail 1
+  rotate: false
+  xy: 358, 69
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 tail 2
+  rotate: false
+  xy: 904, 99
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 tail 3
+  rotate: false
+  xy: 968, 221
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+hdm 10 a/hdm 10 weapon
+  rotate: false
+  xy: 279, 217
+  size: 146, 38
+  orig: 146, 38
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm l 1
+  rotate: false
+  xy: 909, 183
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm l 2
+  rotate: false
+  xy: 273, 70
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm l 3 back
+  rotate: false
+  xy: 224, 4
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm l 3 top
+  rotate: false
+  xy: 260, 21
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm r 1
+  rotate: false
+  xy: 427, 186
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm r 2
+  rotate: false
+  xy: 237, 139
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b arm r 3
+  rotate: false
+  xy: 413, 70
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b body
+  rotate: false
+  xy: 1, 138
+  size: 129, 117
+  orig: 129, 117
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b head
+  rotate: false
+  xy: 477, 127
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b head 2
+  rotate: false
+  xy: 541, 127
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b head 3
+  rotate: false
+  xy: 733, 116
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b hip
+  rotate: false
+  xy: 127, 50
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b hip top
+  rotate: false
+  xy: 704, 175
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg l 1
+  rotate: false
+  xy: 851, 119
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg l 2
+  rotate: false
+  xy: 526, 79
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg l 3
+  rotate: false
+  xy: 818, 76
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg l 4
+  rotate: false
+  xy: 857, 81
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg r 1
+  rotate: false
+  xy: 355, 148
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg r 2
+  rotate: false
+  xy: 471, 75
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg r 3
+  rotate: false
+  xy: 776, 70
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b leg r 4
+  rotate: false
+  xy: 647, 78
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b tail 1
+  rotate: false
+  xy: 280, 1
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b tail 2
+  rotate: false
+  xy: 597, 81
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b tail 3
+  rotate: false
+  xy: 968, 185
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+hdm 10 b/hdm 10b weapon
+  rotate: false
+  xy: 132, 214
+  size: 145, 41
+  orig: 145, 41
+  offset: 0, 0
+  index: -1

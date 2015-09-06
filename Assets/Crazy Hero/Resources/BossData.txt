@@ -1,0 +1,162 @@
+{
+	"Asmodius": 
+		{
+			"rangeType": "Malee",
+			
+			"attributes": "none",
+			
+			"unitType": "none",
+			
+			"bossType": "none",
+			
+			"level": 1,
+			
+			"maxLevel": 10,
+			
+			"range": 2,
+			
+			"attack": 100,
+			
+			"critical": 0,
+			
+			"regen": 5,
+			
+			"defense": 1,
+			
+			"maxHP": 1000,
+			
+			"hp": 0,
+			
+			"walkSpeed": 0,
+			
+			"attackSpeed": 1,
+			
+			"attackEffectName": "",
+			
+			"cost": 0,
+			
+			"dropSoul": 0,
+			
+			"givenEXP": 0
+		},
+	"Skeleton King": 
+		{
+			"rangeType": "Malee",
+			
+			"attributes": "none",
+			
+			"unitType": "none",
+			
+			"bossType": "none",
+			
+			"level": 1,
+			
+			"maxLevel": 10,
+			
+			"range": 2,
+			
+			"attack": 100,
+			
+			"critical": 0,
+			
+			"regen": 5,
+			
+			"defense": 2,
+			
+			"maxHP": 1000,
+			
+			"hp": 0,
+			
+			"walkSpeed": 0,
+			
+			"attackSpeed": 1,
+			
+			"attackEffectName": "",
+			
+			"cost": 0,
+			
+			"dropSoul": 0,
+			
+			"givenEXP": 0
+		},
+	"Wizard Skeleton": 
+		{
+			"rangeType": "Malee",
+			
+			"attributes": "none",
+			
+			"unitType": "none",
+			
+			"bossType": "none",
+			
+			"level": 1,
+			
+			"maxLevel": 10,
+			
+			"range": 2,
+			
+			"attack": 100,
+			
+			"critical": 0,
+			
+			"regen": 5,
+			
+			"defense": 1,
+			
+			"maxHP": 500,
+			
+			"hp": 0,
+			
+			"walkSpeed": 0,
+			
+			"attackSpeed": 1,
+			
+			"attackEffectName": "",
+			
+			"cost": 0,
+			
+			"dropSoul": 0,
+			
+			"givenEXP": 0
+		},
+	"Black Wizard Wyvern": 
+		{
+			"rangeType": "Malee",
+			
+			"attributes": "none",
+			
+			"unitType": "none",
+			
+			"bossType": "none",
+			
+			"level": 1,
+			
+			"maxLevel": 10,
+			
+			"range": 2,
+			
+			"attack": 150,
+			
+			"critical": 0,
+			
+			"regen": 5,
+			
+			"defense": 1,
+			
+			"maxHP": 1000,
+			
+			"hp": 0,
+			
+			"walkSpeed": 0,
+			
+			"attackSpeed": 1,
+			
+			"attackEffectName": "",
+			
+			"cost": 0,
+			
+			"dropSoul": 0,
+			
+			"givenEXP": 0
+		}
+}

@@ -1,0 +1,376 @@
+
+skeleton-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdb 04 arm back 1
+  rotate: false
+  xy: 508, 359
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+hdb 04 arm back 2
+  rotate: false
+  xy: 405, 506
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+hdb 04 arm top 1
+  rotate: true
+  xy: 567, 503
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+hdb 04 arm top 2
+  rotate: false
+  xy: 850, 926
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+hdb 04 bar
+  rotate: true
+  xy: 700, 763
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+hdb 04 bar under
+  rotate: false
+  xy: 495, 648
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+hdb 04 body 1
+  rotate: false
+  xy: 2, 361
+  size: 195, 151
+  orig: 196, 151
+  offset: 1, 0
+  index: -1
+hdb 04 body 2
+  rotate: false
+  xy: 459, 840
+  size: 199, 138
+  orig: 199, 138
+  offset: 0, 0
+  index: -1
+hdb 04 head low
+  rotate: true
+  xy: 514, 501
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+hdb 04 head top
+  rotate: true
+  xy: 405, 599
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+hdb 04 human arm back 1
+  rotate: false
+  xy: 278, 305
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hdb 04 human arm back 2
+  rotate: false
+  xy: 753, 694
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+hdb 04 human arm back 3
+  rotate: false
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+hdb 04 human arm top 1
+  rotate: false
+  xy: 310, 305
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hdb 04 human arm top 2
+  rotate: false
+  xy: 343, 355
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+hdb 04 human arm top 3
+  rotate: false
+  xy: 459, 745
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hdb 04 human body 1
+  rotate: true
+  xy: 650, 659
+  size: 38, 43
+  orig: 39, 44
+  offset: 1, 1
+  index: -1
+hdb 04 human body 2
+  rotate: false
+  xy: 192, 129
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+hdb 04 human body 3
+  rotate: true
+  xy: 240, 297
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+hdb 04 human head
+  rotate: true
+  xy: 192, 175
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+hdb 04 human head 2
+  rotate: false
+  xy: 193, 226
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+hdb 04 human head 3
+  rotate: false
+  xy: 240, 265
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+hdb 04 human leg back
+  rotate: false
+  xy: 128, 115
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+hdb 04 human leg top
+  rotate: false
+  xy: 782, 860
+  size: 66, 118
+  orig: 66, 118
+  offset: 0, 0
+  index: -1
+hdb 04 human weapon
+  rotate: false
+  xy: 459, 980
+  size: 377, 37
+  orig: 377, 39
+  offset: 0, 0
+  index: -1
+hdb 04 leg back 1
+  rotate: true
+  xy: 377, 433
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+hdb 04 leg back 2
+  rotate: false
+  xy: 274, 343
+  size: 67, 34
+  orig: 70, 34
+  offset: 2, 0
+  index: -1
+hdb 04 leg back 3
+  rotate: true
+  xy: 747, 774
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+hdb 04 leg back 4
+  rotate: true
+  xy: 650, 699
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+hdb 04 leg top 1
+  rotate: true
+  xy: 459, 761
+  size: 77, 168
+  orig: 77, 168
+  offset: 0, 0
+  index: -1
+hdb 04 leg top 2
+  rotate: false
+  xy: 753, 719
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+hdb 04 leg top 3
+  rotate: true
+  xy: 660, 828
+  size: 30, 86
+  orig: 32, 86
+  offset: 2, 0
+  index: -1
+hdb 04 leg top 4
+  rotate: false
+  xy: 629, 770
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+hdb 04 neck 1
+  rotate: true
+  xy: 962, 865
+  size: 92, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+hdb 04 neck 1b
+  rotate: true
+  xy: 137, 9
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+hdb 04 neck 2
+  rotate: false
+  xy: 850, 851
+  size: 110, 73
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+hdb 04 neck 2b
+  rotate: false
+  xy: 2, 17
+  size: 133, 96
+  orig: 133, 96
+  offset: 0, 0
+  index: -1
+hdb 04 neck 2b top
+  rotate: true
+  xy: 952, 959
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+hdb 04 tail 1
+  rotate: false
+  xy: 2, 226
+  size: 189, 133
+  orig: 189, 133
+  offset: 0, 0
+  index: -1
+hdb 04 tail 2
+  rotate: false
+  xy: 377, 366
+  size: 129, 65
+  orig: 129, 65
+  offset: 0, 0
+  index: -1
+hdb 04 tail 3
+  rotate: false
+  xy: 495, 601
+  size: 110, 45
+  orig: 110, 45
+  offset: 0, 0
+  index: -1
+hdb 04 tail 4
+  rotate: true
+  xy: 597, 665
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+hdb 04 tail armor 0
+  rotate: false
+  xy: 660, 860
+  size: 120, 118
+  orig: 129, 118
+  offset: 6, 0
+  index: -1
+hdb 04 tail armor 1
+  rotate: false
+  xy: 199, 379
+  size: 176, 133
+  orig: 179, 140
+  offset: 3, 0
+  index: -1
+hdb 04 tail armor 2
+  rotate: false
+  xy: 2, 115
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+hdb 04 tail armor 3
+  rotate: false
+  xy: 193, 279
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+hdb 04 tail armor 4
+  rotate: false
+  xy: 748, 814
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+hdb 04 tail armor 5
+  rotate: true
+  xy: 597, 648
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+hdb 04 tooth low
+  rotate: false
+  xy: 697, 700
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+hdb 04 tooth mid
+  rotate: false
+  xy: 199, 340
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+hdb 04 tooth top
+  rotate: false
+  xy: 506, 435
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+hdb 04 wing back 3
+  rotate: false
+  xy: 2, 514
+  size: 401, 229
+  orig: 401, 229
+  offset: 0, 0
+  index: -1
+hdb 04 wing top 2
+  rotate: false
+  xy: 2, 745
+  size: 455, 272
+  orig: 455, 272
+  offset: 0, 0
+  index: -1

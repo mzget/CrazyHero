@@ -1,0 +1,152 @@
+
+skeleton-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crazy Lancer Hero 01 B arm 0 low
+  rotate: true
+  xy: 124, 31
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B arm 0 top
+  rotate: false
+  xy: 229, 101
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B body low
+  rotate: false
+  xy: 148, 68
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B body top
+  rotate: true
+  xy: 60, 4
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B face 01
+  rotate: false
+  xy: 173, 3
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B face 02
+  rotate: false
+  xy: 186, 24
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B face 03
+  rotate: false
+  xy: 192, 16
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B face 04
+  rotate: true
+  xy: 126, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B head
+  rotate: false
+  xy: 2, 7
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B head top 1
+  rotate: true
+  xy: 126, 14
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B head top 2
+  rotate: false
+  xy: 230, 22
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 B head top 3
+  rotate: true
+  xy: 148, 5
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 arm l 0
+  rotate: true
+  xy: 229, 69
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 arm l 1
+  rotate: false
+  xy: 106, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 arm l 2
+  rotate: true
+  xy: 230, 41
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 arm r 1
+  rotate: true
+  xy: 195, 46
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 arm r 2
+  rotate: true
+  xy: 205, 27
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 leg l
+  rotate: true
+  xy: 148, 24
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 sheld
+  rotate: true
+  xy: 60, 32
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 weapon
+  rotate: false
+  xy: 2, 56
+  size: 144, 70
+  orig: 144, 70
+  offset: 0, 0
+  index: -1
+Crazy Lancer Hero 01 weapon low
+  rotate: false
+  xy: 148, 45
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
